@@ -1,1 +1,1 @@
-document.write('<img src="https://pentest.stronit.com.br/".concat("teste1234") />');
+document.write('<img src="https://<DOMAIN-HERE>/".concat("teste1234") />');
