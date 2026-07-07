@@ -1,1 +1,1 @@
-document.write('<img src="https://186.235.59.174:80" />');
+document.write('<img src="https://<IP-HERE>:80" />');
